@@ -2,7 +2,7 @@
 
 The attached notebook and Arduino code is a simple example that shows how to connect Python code running in a local Jupyter Notebook to an Arduino. This setup gives a user the ability to tell AI chat agents to take actions in the real world e.g. switch on a light. It's also an easy and low-cost way to add GPIO pins to a Mac or PC.
 
-This example will help you quickly grasp the fundamentals of connecting AI to the physical world. 
+This beginner-friendly example will help you quickly grasp the fundamentals of connecting AI to the physical world. 
 
 Please run the notebook locally, on your machine - not via Colab or Kaggle. You can use uv to launch Jupyter Lab locally:
 
