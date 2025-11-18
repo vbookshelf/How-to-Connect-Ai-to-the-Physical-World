@@ -68,3 +68,10 @@ https://www.udemy.com/course/analog-electronics-robotics-learn-by-building/
 https://www.udemy.com/course/digital-electronics-robotics-learn-by-building-module-ii/
 
 <br>
+
+## Conclusion
+
+This example is a stepping stone toward building more complex AI-driven IoT and robotics projects.
+
+<br>
+
