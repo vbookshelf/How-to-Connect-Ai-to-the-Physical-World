@@ -25,7 +25,7 @@ The included Jupyter Notebook (`example.ipynb`) provides two examples:
 *   **1. Simple Digital Control: Turn an LED On and Off**
     *   Send a simple command from the Jupyter Notebook to make the Arduino perform a physical action. This example uses the builtin LED on the Arduino therefore, you don't need to do any wiring.
 
-*   **3. Control Arduino with the Gemini LLM**
+*   **2. Control Arduino with the Gemini LLM**
     *   Use a Large Language Model (LLM) to interact with the Arduino using natural language. By chatting with Gemini and using function calling, you can type commands like "turn the light on." The model will translate your request into code that controls the Arduino. 
 
-This setup allows you to quickly grasp the fundamentals of connecting AI to the physical world.
+This setup will help you to quickly grasp the fundamentals of connecting AI to the physical world.
